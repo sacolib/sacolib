@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "sacolib"
+  title: "SACoLib"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+      - Animal Liberation.qmd
+      - Information Liberation.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
 
