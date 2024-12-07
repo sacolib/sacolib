@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: yeti
     css: styles.css
     toc: true
 

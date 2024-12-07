@@ -2,24 +2,14 @@
 title: "About"
 ---
 
-SACoLib - Science Advocacy Collective for Liberation - is an anarchist collective
-of scientists from various fields around the world, working towards the collective liberation of animals (including humans). "Liberation" means liberating 
-one from regressive exploitative worldviews and making the world better without 
-being under the delusion that the capitalistic systems will enable that.
+SACoLib - Science Advocacy Collective for Liberation - is an anarchist collective of scientists, engineers, and other researchers from various fields, working towards the collective liberation of animals (including humans). "Liberation" means liberating one from regressive exploitative worldviews and making the world better without being under the delusion that the capitalistic systems will enable that.
 
-Liberation includes animal liberation - liberation of animals exploited for irrational reasons that needs to evolve such as taste, traditions, culture, religion, convenience, 
-and habit. It includes opening up information from niche scientific fields to everyone 
-and helping people gain access to information that has been produced and reviewed 
-by the free labour of millions of scientists and stolen and restricted by corporate publishers (and breaking free from such an inherently unethical system). Remember: 
-if it is not available for scrutiny or replication or falsification, it is not science. It includes liberation of the environment from human greed; and much more.
+Liberation includes animal liberation - liberation of animals exploited for irrational reasons that needs to evolve such as taste, traditions, culture, religion, convenience, and habit. It includes opening up information from niche scientific fields to everyone and helping people gain access to information that has been produced and reviewed by the free labour of millions of scientists and stolen and restricted by corporate publishers (and breaking free from such an inherently unethical system). Remember: if it is not available for scrutiny or replication or falsification, it is not science. It includes liberation of the environment from human greed; and much more.
 
 We currently have two themes under which we will be launching projects:
 
-1) Animal Liberation
+1)  [Animal Liberation](Animal%20Liberation.qmd)
 
-2) Information Liberation
-
-Visit individual theme pages to know more.
+2)  [Information Liberation](Information%20Liberation.qmd)
 
 Visit this website occasionally for updates on our projects.
-

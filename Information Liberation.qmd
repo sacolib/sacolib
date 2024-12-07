@@ -5,15 +5,16 @@ page-layout: full
 
 Projects:
 
-Our first project will be a guidebook of photographic or acoustic identification keys of similar looking or similar sounding organisms (with a focus on organisms within India at this point of time), hosted at iNaturalist.
+Our first project is a guidebook of photographic or acoustic identification keys of similar looking or similar sounding organisms (with a focus on organisms within India at this point of time), hosted at iNaturalist.
+
+Concept and coordinator: Paul Pop
 
 There are many reasons for this project:
 
-  1) This will allow [**better validation of species identification**]{.fragment .highlight-red}, which in turn is used as training data by iNaturalist for their Computer Vision model. Seeing the uptick in the number of ID spammers who simply agree to an identification just to increase their identification counts without any verification of species identification, we are likely to enter an era of bad identification suggestions from the automated species identification tool of iNaturalisr which bases itself on the Computer Vision model, which in turn will be 'Research Graded' again by ID spammers, creating a vicious loop of trash in = trash out in machine learning model.
-  
-  2) Since a lot of Research Grade data from iNaturalist are being used for modelling species distributions and other trends, usually via GBIF, such validation will result in [**better quality data for research**.]{.fragment .highlight-red}
-  
-  3) Identification keys available in literature are very hard for lay people and even biologists who don't have expertise in the taxa to understand, due to the many taxonomic jargon and lack of clarity on what these terms mean. Many of them contribute to 'citizen science' initiatives like iNaturalist, but have to resort to the automated identification
-tool for the IDs or make "ID please" requests in groups dedicated to different taxa. Photographic or acoustic identification keys are key to [**empowering non-experts in identification**.]{.fragment .highlight-red}
+1)  Identification keys available in literature are very hard for lay people and even biologists who don't have expertise in the taxa to understand, due to the many taxonomic jargon and lack of clarity on what these terms mean. Many of them contribute to 'citizen science' initiatives like iNaturalist, but have to resort to the automated identification tool for the IDs or make "ID please" requests in groups dedicated to different taxa. Photographic or acoustic identification keys are key to [**empowering non-experts in identification**.]{.fragment .highlight-red}
 
-  4) ID keys like this hopefully result in [**lesser number of collections**]{.fragment .highlight-red} of animals like moths, who are usually dissected for identifications.
+2)  This will allow [**better validation of species identification**]{.fragment .highlight-red}, which in turn is used as training data by iNaturalist for their Computer Vision model. Seeing the uptick in the number of ID spammers who simply agree to an identification just to increase their identification counts without any verification of species identification, we are likely to enter an era of bad identification suggestions from the automated species identification tool of iNaturalisr which bases itself on the Computer Vision model, which in turn will be 'Research Graded' again by ID spammers, creating a vicious loop of trash in = trash out in machine learning model.
+
+3)  Since a lot of Research Grade data from iNaturalist are being used for modelling species distributions and other trends, usually via GBIF, such validation will result in [**better quality data for research**.]{.fragment .highlight-red}
+
+4)  ID keys like this hopefully result in [**lesser number of collections**]{.fragment .highlight-red} of animals like moths, who are usually dissected for identifications.
