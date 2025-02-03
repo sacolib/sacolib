@@ -1,9 +1,0 @@
----
-title: "Animal Liberation"
----
-
-Projects:
-
-Our first project will be a database of peer-reviewed papers that assess various
-aspects of non-human animal exploitation - sentience, environmental impacts, and
-health impacts.

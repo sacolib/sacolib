@@ -1,0 +1,86 @@
+---
+toc: true
+page-layout: full
+---
+
+# **ID keys to wildlife in India**
+
+## Introduction
+
+This is a guide composed of photographic or acoustic identification keys of similar looking or similar sounding organisms (with a focus on organisms within India at this point of time), [hosted at iNaturalist](https://www.inaturalist.org/guides/20707). This guide is intended to help anyone, whether an amateur naturalist or a professional scientist, to easily differentiate species based on morphological or acoustic features. Anyone can contribute to this project.
+
+![](media/handmaiden-moths-id-keys-2.png)
+
+Concept and coordinator: Paul Pop
+
+Launch date: 12th December 2024
+
+There are many reasons for this project:
+
+1)  Identification keys available in literature are very hard for lay people and even biologists who don't have expertise in the taxa to understand, due to the many taxonomic jargon and lack of clarity on what these terms mean. Many of them contribute to 'citizen science' initiatives like iNaturalist, but have to resort to the automated identification tool for the IDs or make "ID please" requests in groups dedicated to different taxa. Photographic or acoustic identification keys are key to **empowering non-experts in identification**.
+
+2)  The number of experts available for helping others identify taxa of their expertise are not many and are overburdened by ID requests. This **will lessen the workload of experts**.
+
+3)  This process will allow **better validation of species identification**, which in turn is used as training data by iNaturalist for their Computer Vision model. Seeing the uptick in the number of ID spammers who simply agree to an identification just to increase their identification counts without any verification of species identification, we are likely to enter an era of bad identification suggestions from the automated species identification tool of iNaturalist which bases itself on the Computer Vision model, which in turn will be 'Research Graded' again by ID spammers, creating a vicious loop of trash in = trash out in machine learning model.
+
+4)  This process will allow **better validation of species identification**, which in turn is used as training data by iNaturalist for their Computer Vision model. Seeing the uptick in the number of ID spammers who simply agree to an identification just to increase their identification counts without any verification of species identification, we are likely to enter an era of bad identification suggestions from the automated species identification tool of iNaturalisr which bases itself on the Computer Vision model, which in turn will be 'Research Graded' again by ID spammers, creating a vicious loop of trash in = trash out in machine learning model.
+
+5)  Since a lot of Research Grade data from iNaturalist are being used for modelling species distributions and other trends, usually via GBIF, such validation will result in **better quality data for research**.
+
+6)  ID keys like this hopefully result in **lesser number of collections** of animals like moths, who are usually dissected for identifications.
+
+This project was formally introduced on 12th December 2024, during the CitSci India 2024 conference, as part of a presentation based on the work of Pop et al. You can view the video of this presentation here:
+
+{{< video https://www.youtube.com/watch?v=mvSb9UiFvgY start="10" >}}
+
+## How to contribute?
+
+Since this project is essentially a crowd-sourced "citizen-science" project, anyone can contribute provided they are willing to do the research needed for the scientific integrity of the ID keys as well as designing the ID keys.
+
+Contribute at least 10 ID key pages every year to become an editor (this is to ensure the quality, safety and sustainability of the platform). Unfortunately, unlike contribution of observations to iNaturalist, there is no way to directly upload the ID keys to this iNaturalist project (which we would have preferred). So, one has to be added as an Editor to the project before they can upload their ID key contributions. To express interest in joining as an editor, write to us \@ [the.sacolib\@gmail.com](mailto:the.sacolib@gmail.com) or join the [WhatsApp community](https://chat.whatsapp.com/DJmkBHdeDkL0soM9tyKPvd%22%20target=%22_blank%22). You can also contact to inform us of any errors in the ID keys.
+
+All the pages and its content under this project are under Creative Commons, and can be shared and adapted with attribution for non-commercial purposes (particularly for educative and scientific purposes). Ignore the section "Sources and Credits" in individual pages and "Photo Credits" in the home page of iNaturalist project as they are automatically added by iNaturalist and can't be removed (they are redundant).
+
+These are the steps to follow to contribute ID keys for the project.
+
+**1.** As this project is hosted at iNaturalist, the contributor must have an **iNaturalist account** (one can easily login to iNaturalist using their Google or Apple accounts too, if they prefer it). Please create an iNaturalist account.
+
+**2. Create the ID keys** -
+
+-   <div>
+
+    -   Keys are essentially unique diagnostic features like wing colour or calls that separate two or more species from one another.
+    -   You can create them based on your own publications or based on existing literature (whether peer-reviewed or gray literature like discussion in iNaturalist or Facebook comments section). See the iNaturalist project for examples.
+    -   You can use any existing images in iNaturalist or Wikimedia or other places which host images under creative commons licenses (ONLY use those images which have a creative commons license).
+    -   For creating the ID plates, you can use any software/platform that you're familiar with - Inkscape, GIMP, Photopea, Canva, Paint, Google Slides, Microsoft PPT, Photoshop etc. Ensure that you're using a software which you can visit years from now, and still be able to edit the image plate again (save them as projects).
+    -   There is no set format for creating the ID key plates, which means that you don't have to waste your time adjusting the fonts, margins, resolution etc. Use your creativity. But sure that the labels of features or the arrows or other markings don't overlap the organisms in the images, and ensure that the images chosen are showing the relevant features and the labels are properly visible (adjust the contrast and colours so they are properly visible).
+    -   Add the name of the project "ID keys to wildlife in India" on the ID image plates so that even when these image plates are downloaded and passed around, people will still be able to trace its origin and author(s) and learn about this project.
+    -   If an ID key image plate depicts the details of 2 or more species in depth, then the same image plate can be used to create the species accounts for those 2 or more species. For example, see the example of [*Thysanoplusia intermixta*](https://www.inaturalist.org/guide_taxa/2345379) and [*Thysanoplusia orichalcea*](https://www.inaturalist.org/guide_taxa/2345381).
+
+    </div>
+
+**3. Provide the textual details for the section "ID keys".** It can be one block of description as given [here](https://www.inaturalist.org/guide_taxa/2344890) or line-by-line similarities and dissimilarities as given [here](https://www.inaturalist.org/guide_taxa/2336950). It can contain any external links which is relevant to the ID keys such as the keys presented in the form of a video or a long blog post. Be as thorough as possible.
+
+**4. Provide the image credits and links to those images** (whenever available). In addition, specify the position of the image using words like "upper", "lower", "left", "right" etc. The "CC BY" portion is not mandatory as the creative commons license is available via the link.
+
+e.g.: *Calesia dasyptera* (upper) © Cheryl Stinchcomb CC BY 4.0 <https://www.inaturalist.org/observations/231584431> and (lower) © dave_sargeant CC BY-NC 4.0 <https://www.inaturalist.org/observations/187775748>
+
+**5. Add the references used for creating the ID key plate under the "Identification references".** There is no specific format for this, but ensure that the following details are there - author(s), year, title of the article, and a link to it. For referencing discussions, use "Discussion: \[link to the discussion such as in iNaturalist\]. Its best to save an offline copy of those web pages as they could be deleted or edited soon.
+
+Examples:
+
+Discussion: <https://www.inaturalist.org/observations/62285070>
+
+Pop P, Pattanaik N, Barwal KS, Singh HP, Pandey P, Sondhi S, Singh R. 2024. A checklist of moths in Bilaspur district, Himachal Pradesh, in the western Himalayan foothills, India. Entomon, 49(3):405. <https://doi.org/10.33307/entomon.v49i3.1259>
+
+**6. Add the citation for the page.** It will look like this: Your name. Year. Scientific name v1. In *ID keys to wildlife in India*. Link to the page. The v1 stands for version 1.
+
+e.g.: Paul Pop. 2024. *Calesia haemorrhoa* v1. In *ID keys to wildlife in India*. <https://www.inaturalist.org/guide_taxa/2344890>
+
+**7. If making any changes** to existing species ID keys, then a section for **"Changelog" must be created** and it must describe what changes have been made when shifting from v1 to v2 (version 2) or the most recent version.
+
+## Citation
+
+Citation: Paul Pop. 2025. ID keys to wildlife in India. <https://www.inaturalist.org/guides/20707>
+
+(only cite the specific species pages and their respective editor(s)/compiler(s) if citing only one or few pages. As more editors join, their names will be added to the citation in the order of contributions)

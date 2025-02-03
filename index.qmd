@@ -8,8 +8,8 @@ Liberation includes animal liberation - liberation of animals exploited for irra
 
 We currently have two themes under which we will be launching projects:
 
-1)  [Animal Liberation](Animal%20Liberation.qmd)
+1)  [Animal Liberation](animal_liberation/index.qmd)
 
-2)  [Information Liberation](Information%20Liberation.qmd)
+2)  [Information Liberation](information_liberation/index.qmd)
 
 Visit this website occasionally for updates on our projects.

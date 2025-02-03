@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Aims:
+
+-   To free up information that will help in advancing science.
+
+-   To help reduce the suffering of animals (including humans) through the information liberated.
+
+-   To make the data from existing “citizen science” and other databases available to the public in easy-to-understand formats and to help improve public understanding of science.
+
+Our first project is the [**ID keys to wildlife in India**](id_keys/index.qmd)

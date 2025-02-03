@@ -1,0 +1,13 @@
+---
+title: "Animal Liberation"
+---
+
+Aims
+
+-   To help liberate sentient animals from suffering with the help of science. This includes finding and developing non-invasive tools and techniques to study wild animals, and developing alternatives like organoids to help end the suffering of millions of animals in laboratories who undergo animal-testing.
+
+-   To collaborate with with scientists who are working on similar solutions to speed up the process.
+
+-   To create awareness about sentience and other scientific aspects of animal suffering.
+
+Our first project will be a database of peer-reviewed papers that assess various aspects of non-human animal exploitation - sentience, environmental impacts, and health impacts.

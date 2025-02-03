@@ -1,20 +1,32 @@
 project:
   type: website
   output-dir: docs
+  
+execute:
+  freeze: auto
 
 website:
   title: "SACoLib"
   navbar:
     right:
       - href: index.qmd
-      - Animal Liberation.qmd
-      - Information Liberation.qmd
+      - href: animal_liberation/index.qmd
+      - text: Information Liberation
+        menu:
+          - href: information_liberation/index.qmd
+          - href: information_liberation/id_keys/index.qmd
 
 format:
   html:
-    theme: yeti
-    css: styles.css
-    toc: true
-
+    theme: 
+      light: custom_light.scss
+      dark: custom_dark.scss
+    highlight-style: 
+      light: ek-light.theme
+      dark: ek-dark.theme
+    code-block-border-left: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    
 editor: visual
 
